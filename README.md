@@ -1,3 +1,19 @@
+Redux Project using api data and state
+  <br>
+  
+    Mapdispatch
+    
+    <br>
+    
+    MapStatetoprops
+    <hr>
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
