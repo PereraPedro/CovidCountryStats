@@ -1,12 +1,12 @@
 Redux Project using api data and state
-  <br>
+  <br />
   
     Mapdispatch
     
-    <br>
+    <br />
     
     MapStatetoprops
-    <hr>
+
 
 
 
